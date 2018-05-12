@@ -1,0 +1,27 @@
+_repo: Nan-Sherwood-s-Summer-Holidays_36176
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36176-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carr, Annie Roe
+    gutenberg_agent_id: '1000'
+    url: http://www.gutenberg.org/2009/agents/1000
+description: ''
+gutenberg_issued: '2011-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schoolgirls -- Juvenile fiction'
+- !lcsh 'Americans -- Great Britain -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: Nan Sherwood's Summer Holidays
+url: http://www.gutenberg.org/ebooks/36176
